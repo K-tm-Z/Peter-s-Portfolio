@@ -17,7 +17,7 @@ return (
                     <p> <span className={styles.curPos}>Freelancer </span><br />I'm a retired Chemical Technician,
                     now on the pursuit of Software Development and Technology.</p>
                 <div className={styles.contact}>Curious about my experience? Click👉 
-                    <a href="../../../public/resume.pdf" target="_blank" rel="noopener noreferrer">
+                    <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
                         <button>📃</button>
                     </a>
                 </div>
