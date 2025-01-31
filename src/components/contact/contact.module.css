@@ -1,0 +1,58 @@
+@import '../../vars.css';
+
+.container {
+    position: relative;
+    background-color: rgba(12, 12, 12, 0.6);
+    border-radius: 15px;
+    padding: 73px;
+    margin-top: 129px;
+    z-index: 1;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.title {
+    color: var(--color-text);
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.linkedin {
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 5vw;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.linkedinLogo {
+    width: 50px; /* Adjust size as needed */
+    background: rgb(36, 150, 226);
+    border-radius: 8px;
+}
+
+.details {
+    position: relative;
+    display: block;
+    text-align: right;
+    align-self: flex-end;
+    margin-left: auto;
+}

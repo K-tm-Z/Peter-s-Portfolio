@@ -1,0 +1,31 @@
+[
+    {
+      "title": "HPLC/ GC",
+      "imageSrc": "services/chromatogrphy.webp"
+    },
+    {
+      "title": "Data Analyzing",
+      "imageSrc": "services/chemical analysis.png"
+    },
+    {
+      "title": "Database Building",
+      "imageSrc": "services/excel.png"
+    },
+    {
+      "title": "pH Test",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "Sample Extracting",
+      "imageSrc": "skills/graphql.png"
+    },
+    {
+      "title": "Quality Control",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "SOP Documentation",
+      "imageSrc": "skills/figma.png"
+    }
+  ]
+  
