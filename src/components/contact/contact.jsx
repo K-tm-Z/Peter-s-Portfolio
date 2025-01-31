@@ -1,5 +1,6 @@
 import React from 'react'
 import styles from './contact.module.css'
+import { getImageURL } from '../../util'
 
 export function Contact () {
   return (
@@ -8,7 +9,7 @@ export function Contact () {
       <h1 className={styles.title}>Contact Me</h1>
       <dev className={styles.linkedin}>
       <a href="https://www.linkedin.com/in/peter-nguyen-800b24172/">
-          <img src="../../../assets/contact/Linkedin.png" alt="Linkedin_Logo" className={styles.linkedinLogo} />
+          <img src={getImageURL("./contact/Linkedin.png")} alt="Linkedin_Logo" className={styles.linkedinLogo} />
       </a>
       </dev>
       <div className={styles.details}>
