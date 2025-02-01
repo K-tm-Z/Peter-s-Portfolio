@@ -1,6 +1,13 @@
+/* 
+  File Name: navbar.jsx
+  Student Name: Peter Nguyen
+  Student ID: 301495510
+  Date: 2024-01-31
+  Description: This file contains JavaScript functionality for the website.
+*/
+
 import React, {useState} from 'react';
 import styles from './navbar.module.css';
-import {getImageURL} from '../../util';
 import burgbtn from '../../../assets/nav/menuIcon.webp';
 import closebtn from '../../../assets/nav/close.png';
 

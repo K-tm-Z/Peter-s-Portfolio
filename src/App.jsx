@@ -1,3 +1,11 @@
+/* 
+  File Name: App.jsx
+  Student Name: Peter Nguyen
+  Student ID: 301495510
+  Date: 2024-01-31
+  Description: This file contains the main  function for the website.
+*/
+
 import styles from "./App.module.css"
 import { Navbar } from './components/navbar/navbar';
 import { Home } from "./components/home/home";

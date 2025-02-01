@@ -1,3 +1,11 @@
+/* 
+  File Name: contact.module.css
+  Student Name: Peter Nguyen
+  Student ID: 301495510
+  Date: 2024-01-31
+  Description: This file contains the styles for the portfolio website.
+*/
+
 @import '../../vars.css';
 
 .container {
@@ -32,7 +40,7 @@
     left: 10px;
 }
 
-.linkedin {
+.contacts {
     margin: 10px;
     padding: 10px;
     display: flex;
@@ -41,9 +49,10 @@
     left: 5vw;
     top: 50%;
     transform: translateY(-50%);
+    gap: 10vw;
 }
 
-.linkedinLogo {
+.logo {
     width: 50px; /* Adjust size as needed */
     background: rgb(36, 150, 226);
     border-radius: 8px;

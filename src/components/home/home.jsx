@@ -1,3 +1,11 @@
+/* 
+  File Name: home.jsx
+  Student Name: Peter Nguyen
+  Student ID: 301495510
+  Date: 2024-01-31
+  Description: This file contains JavaScript functionality for the website.
+*/
+
 import React from 'react'
 import styles from './home.module.css'
 import logo from '../../../assets/logo-w.png'

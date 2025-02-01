@@ -1,4 +1,10 @@
-
+/* 
+  File Name: projects.module.css
+  Student Name: Peter Nguyen
+  Student ID: 301495510
+  Date: 2024-01-31
+  Description: This file contains the styles for the portfolio website.
+*/
 
 .container {
     position: relative;
@@ -23,9 +29,8 @@
     font-weight: 700;
     letter-spacing: 1.75px;
     text-transform: uppercase;
-    justify-content: right;
-    align-items: right;
-    display: flex;
+    text-align: center;
+    margin-bottom: 40px;
 }
 
 .pjList {
@@ -52,6 +57,20 @@
     transition: background-size 0.5s;
 }
 
+.pjItemTxt {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.projectImage {
+    width: 10vw; 
+    margin-right: 50px;
+    border: solid;
+    border: white;
+    border-radius: 15px;
+}
+
 .pjItem h4 {
     font-size: 25px;
     font-weight: 600;
@@ -61,23 +80,33 @@
     font-size: 25px;
 }
 
-@media screen and (max-width: 830px){
+@media screen and (max-width: 830px) {
     .container {
         background-color: transparent;
         padding-left: 0;
         padding-right: 0;
     }
 
-    .content{
+    .content {
         flex-direction: column;
     }
 
-    .pjItem{
+    .pjItem {
+        flex-direction: column;
         padding-left: 0;
         padding-right: 0;
     }
 
-    .pjList{
+    .pjItemTxt {
+        flex-direction: column;
+    }
+
+    .projectImage {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .pjList {
         margin-top: 29px;
     }
 }

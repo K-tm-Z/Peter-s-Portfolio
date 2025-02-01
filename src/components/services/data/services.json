@@ -1,31 +1,30 @@
 [
-    {
-      "title": "HPLC/ GC",
-      "imageSrc": "services/chromatogrphy.webp"
-    },
-    {
-      "title": "Data Analyzing",
-      "imageSrc": "services/chemical analysis.png"
-    },
-    {
-      "title": "Database Building",
-      "imageSrc": "services/excel.png"
-    },
-    {
-      "title": "pH Test",
-      "imageSrc": "skills/node.png"
-    },
-    {
-      "title": "Sample Extracting",
-      "imageSrc": "skills/graphql.png"
-    },
-    {
-      "title": "Quality Control",
-      "imageSrc": "skills/mongodb.png"
-    },
-    {
-      "title": "SOP Documentation",
-      "imageSrc": "skills/figma.png"
-    }
-  ]
-  
+  {
+    "title": "HPLC/ GC",
+    "imageSrc": "./assets/services/HPLC.webp"
+  },
+  {
+    "title": "Data Analyzing",
+    "imageSrc": "./assets/services/chemanal.png"
+  },
+  {
+    "title": "Database Building",
+    "imageSrc": "./assets/services/excel.png"
+  },
+  {
+    "title": "pH Test",
+    "imageSrc": "./assets/services/phTest.webp"
+  },
+  {
+    "title": "Sample Extracting",
+    "imageSrc": "./assets/services/sampleext.jpg"
+  },
+  {
+    "title": "Quality Control",
+    "imageSrc": "./assets/services/QC.jpg"
+  },
+  {
+    "title": "SOP Documentation",
+    "imageSrc": "./assets/services/SOP.png"
+  }
+]
