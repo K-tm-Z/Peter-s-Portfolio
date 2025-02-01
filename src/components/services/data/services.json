@@ -1,30 +1,30 @@
 [
   {
     "title": "HPLC/ GC",
-    "imageSrc": "./assets/services/HPLC.webp"
+    "imageSrc": "./services/HPLC.webp"
   },
   {
     "title": "Data Analyzing",
-    "imageSrc": "./assets/services/chemanal.png"
+    "imageSrc": "./services/chemanal.png"
   },
   {
     "title": "Database Building",
-    "imageSrc": "./assets/services/excel.png"
+    "imageSrc": "./services/excel.png"
   },
   {
     "title": "pH Test",
-    "imageSrc": "./assets/services/phTest.webp"
+    "imageSrc": "./services/phTest.webp"
   },
   {
     "title": "Sample Extracting",
-    "imageSrc": "./assets/services/sampleext.jpg"
+    "imageSrc": "./services/sampleext.jpg"
   },
   {
     "title": "Quality Control",
-    "imageSrc": "./assets/services/QC.jpg"
+    "imageSrc": "./services/QC.jpg"
   },
   {
     "title": "SOP Documentation",
-    "imageSrc": "./assets/services/SOP.png"
+    "imageSrc": "./services/SOP.png"
   }
 ]
